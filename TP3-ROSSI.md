@@ -149,6 +149,12 @@ g
 
 **2.Vérifiez qu’un nouveau fichier a été créé dans/etc/apt/sources.list.d. Que contient-il?**
 
+Le fichier à bien été crée et il contient :
+``` 
+deb http://ppa.launchpad.net/linuxuprising/java/ubuntu disco main
+# deb-src http://ppa.launchpad.net/linuxuprising/java/ubuntu disco main
+# deb-src http://ppa.launchpad.net/linuxuprising/java/ubuntu disco main
+```
 
 # Exercice 7
 
